@@ -6,3 +6,4 @@ _Z3sumii:
 	add	r0, r0, r2
 	cmp	r2, r1
 	blt	1b
+	bx	lr
